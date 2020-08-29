@@ -1,17 +1,15 @@
 
 NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
 
-SBOM FAQ
+# SBOM FAQ
 
-Table of Contents
+## Table of Contents
 
-Table of Contents
-Table of Contents 1
-OVERVIEW 2
-Q: What is an SBOM? 2
-Q: Who should have an SBOM? 2
-Q: Who uses an SBOM and for what? 2
-BENEFITS 3
+- [OVERVIEW](#overview)
+   + [Q: What is an SBOM?](#q-what-is-an-sbom)
+   + [Q: Who should have an SBOM?](#q-who-should-have-an-sbom)
+   + [Q: Who uses an SBOM and for what?](#q-who-uses-an-sbom-and-for-what)
+- [BENEFITS]()
 Q: What are the benefits of an SBOM? 3
 Q: How does an SBOM help in the event of a cyberattack? 3
 Q: In addition to vulnerability management, how can SBOMs help me? 4
