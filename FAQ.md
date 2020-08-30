@@ -9,7 +9,7 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
    + [Q: What is an SBOM?](#q-what-is-an-sbom)
    + [Q: Who should have an SBOM?](#q-who-should-have-an-sbom)
    + [Q: Who uses an SBOM and for what?](#q-who-uses-an-sbom-and-for-what)
-- [BENEFITS](benefits)
+- [BENEFITS](#benefits)
    + [Q: What are the benefits of an SBOM?](#q-what-are-the-benefits-of-an-sbom)
    + [Q: How does an SBOM help in the event of a cyberattack?](#q-how-does-an-sbom-help-in-the-event-of-a-cyberattack)
    + [Q: In addition to vulnerability management, how can SBOMs help me?](#q-in-addition-to-vulnerability-management-how-can-sboms-help-me)
@@ -33,7 +33,7 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
 - [ROLE SPECIFIC](#role-specific)
    + [Q: How can SBOMs be leveraged as a Purchaser?](#q-how-can-sboms-be-leveraged-as-a-purchaser)
    + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed)
-- [GET INVOLVED](get_involved)
+- [GET INVOLVED](#get_involved)
    + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i)
 
 # OVERVIEW
@@ -147,8 +147,7 @@ your discretion. Concerns about exposing the internals of your code’s operatio
 likewise unfounded, as these software components are just “a piece of the puzzle”, not
 anything close to the “whole completed puzzle” that represents your program.
 
-## Q: Does a list of the software components I include expose my intellectual
-property?
+## Q: Does a list of the software components I include expose my intellectual property?
 A: No. First, there is a big difference between knowing the 3rd party ingredients and the
 ultimate recipe or execution. Further, any intellectual property associated with these
 supply chain components belongs to those upstream, 3rd party, commercial and open
@@ -196,8 +195,7 @@ to create an SBOM, see Section 4.2 of “Framing Software Component Transparency
 Establishing a Common Software Bill of Material (SBOM)”:
 https://www.ntia.gov/files/ntia/publications/framingsbom_20191112.pdf
 
-## Q: Some software components are made up of other software components
-themselves. Can an SBOM show that hierarchy?
+## Q: Some software components are made up of other software components themselves. Can an SBOM show that hierarchy?
 A: Yes. SBOMs can provide hierarchical information. Each component that is included
 in an SBOM should have an SBOM of its own if it also includes components. The
 SBOMs supplied with each software component taken together represent all levels of
@@ -260,8 +258,7 @@ personas, see:
 
 # GET INVOLVED
 
-## Q: Where can I find more information about the NTIA SBOM process? How do I
-get involved?
+## Q: Where can I find more information about the NTIA SBOM process? How do I get involved?
 A: To learn more about the NTIA Multistakeholder process for SBOM – including scope,
 definitions, tools, formats, community-drafted documents, and existing state of practices
 – visit: www.ntia.gov/sbom, www.ntia.gov/softwareTransparency, or reach out to Allan
