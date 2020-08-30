@@ -17,7 +17,7 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
 - [COMMON MISCONCEPTIONS & CONCERNS](#common-misconceptions--concerns)
    + [Q: Won’t SBOMs be a “roadmap to the attacker”?](#q-wont-sboms-be-a-roadmap-to-the-attacker)
    + [Q: Does an SBOM require source code disclosure?](#q-does-an-sbom-require-source-code-disclosure)
-   + [Q: Does a list of the software components I include expose my intellectual property?](#q-does-a-list-of-the-software-components-i-include-expose-my-intellectual)
+   + [Q: Does a list of the software components I include expose my intellectual property?](#q-does-a-list-of-the-software-components-i-include-expose-my-intellectual-property)
    + [Q: Does an SBOM increase my exposure to license violations?](#q-does-an-sbom-increase-my-exposure-to-license-violations)
    + [Q: Does an SBOM enable patent or license “trolls”?](#q-does-an-sbom-enable-patent-or-license-trolls)
    + [Q: Will SBOMs increase my licensing costs or licensing commitments?](#q-will-sboms-increase-my-licensing-costs-or-licensing-commitments)
@@ -25,16 +25,16 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
    + [Q: Who creates and maintains an SBOM?](#q-who-creates-and-maintains-an-sbom)
    + [Q: What should be included in an SBOM?](#q-what-should-be-included-in-an-sbom)
    + [Q: When is an SBOM created, changed, or maintained?](#q-when-is-an-sbom-created-changed-or-maintained)
-   + [Q: Some software components are made up of other software components themselves. Can an SBOM show that hierarchy?](#q-some-software-components-are-made-up-of-other-software-components)
+   + [Q: Some software components are made up of other software components themselves. Can an SBOM show that hierarchy?](#q-some-software-components-are-made-up-of-other-software-components-themselves-can-an-sbom-show-that-hierarchy)
    + [Q: How deep in the dependency graph should an SBOM enumerate?](#q-how-deep-in-the-dependency-graph-should-an-sbom-enumerate)
 - [DISTRIBUTION & SHARING](#distribution--sharing)
    + [Q: If I make an SBOM, do I have to make it public?](#q-if-i-make-an-sbom-do-i-have-to-make-it-public)
    + [Q: How will SBOM data be shared?](#q-how-will-sbom-data-be-shared)
 - [ROLE SPECIFIC](#role-specific)
    + [Q: How can SBOMs be leveraged as a Purchaser?](#q-how-can-sboms-be-leveraged-as-a-purchaser)
-   + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed)
+   + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed-technology-in-the-field-for-emerging-vulnerabilities)
 - [GET INVOLVED](#get_involved)
-   + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i)
+   + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i-get-involved)
 
 # OVERVIEW
 
