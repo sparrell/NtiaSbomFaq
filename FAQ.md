@@ -21,20 +21,20 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
    + [Q: Does an SBOM increase my exposure to license violations?](#q-does-an-sbom-increase-my-exposure-to-license-violations)
    + [Q: Does an SBOM enable patent or license “trolls”?](#q-does-an-sbom-enable-patent-or-license-trolls)
    + [Q: Will SBOMs increase my licensing costs or licensing commitments?](#q-will-sboms-increase-my-licensing-costs-or-licensing-commitments)
-## [CREATION](#creation)
+- [CREATION](#creation)
    + [Q: Who creates and maintains an SBOM?](#q-who-creates-and-maintains-an-sbom)
    + [Q: What should be included in an SBOM?](#q-what-should-be-included-in-an-sbom)
    + [Q: When is an SBOM created, changed, or maintained?](#q-when-is-an-sbom-created-changed-or-maintained)
    + [Q: Some software components are made up of other software components themselves. Can an SBOM show that hierarchy?](#q-some-software-components-are-made-up-of-other-software-components)
    + [Q: How deep in the dependency graph should an SBOM enumerate?](#q-how-deep-in-the-dependency-graph-should-an-sbom-enumerate)
-[DISTRIBUTION & SHARING](#distribution--sharing)
+- [DISTRIBUTION & SHARING](#distribution--sharing)
    + [Q: If I make an SBOM, do I have to make it public?](#q-if-i-make-an-sbom-do-i-have-to-make-it-public)
    + [Q: How will SBOM data be shared?](#q-how-will-sbom-data-be-shared)
-[ROLE SPECIFIC](#role-specific)
+- [ROLE SPECIFIC](#role-specific)
    + [Q: How can SBOMs be leveraged as a Purchaser?](#q-how-can-sboms-be-leveraged-as-a-purchaser)
    + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed)
-GET INVOLVED 9
-Q: Where can I find more information about the NTIA SBOM process? How do I get involved? 9
+- [GET INVOLVED](get_involved)
+   + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i)
 
 # OVERVIEW
 
@@ -248,8 +248,7 @@ Having an SBOM informs and enables the following, prior to purchasing decisions:
 * Understand complexity of the software (dates, versions of various parts of the
 software)
 
-## Q: How can SBOMs help an engineer provide surveillance for deployed
-technology in the field for emerging vulnerabilities?
+## Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?
 A: Periodic (ideally automated) comparisons against disclosed vulnerabilities (NVD,
 Vulners, etc.) can provide an early alert to a potential risk lurking in your environment.
 A subsequent investigation into the impact of the disclosed vulnerability upon your
