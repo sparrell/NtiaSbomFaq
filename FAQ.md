@@ -9,32 +9,30 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
    + [Q: What is an SBOM?](#q-what-is-an-sbom)
    + [Q: Who should have an SBOM?](#q-who-should-have-an-sbom)
    + [Q: Who uses an SBOM and for what?](#q-who-uses-an-sbom-and-for-what)
-- [BENEFITS]()
-Q: What are the benefits of an SBOM? 3
-Q: How does an SBOM help in the event of a cyberattack? 3
-Q: In addition to vulnerability management, how can SBOMs help me? 4
-Q: How have bills of material and supply chain transparency been helpful elsewhere? 4
-COMMON MISCONCEPTIONS & CONCERNS 4
-Q: Won’t SBOMs be a “roadmap to the attacker”? 4
-Q: Does an SBOM require source code disclosure? 5
-Q: Does a list of the software components I include expose my intellectual property? 5
-Q: Does an SBOM increase my exposure to license violations? 5
-Q: Does an SBOM enable patent or license “trolls”? 5
-Q: Will SBOMs increase my licensing costs or licensing commitments? 6
-CREATION 6
-Q: Who creates and maintains an SBOM? 6
-Q: What should be included in an SBOM? 6
-Q: When is an SBOM created, changed, or maintained? 6
-Q: Some software components are made up of other software components themselves. Can an
-SBOM show that hierarchy? 7
-Q: How deep in the dependency graph should an SBOM enumerate? 7
-DISTRIBUTION & SHARING 7
-Q: If I make an SBOM, do I have to make it public? 7
-Q: How will SBOM data be shared? 7
-ROLE SPECIFIC 8
-Q: How can SBOMs be leveraged as a Purchaser? 8
-Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for
-emerging vulnerabilities? 8
+- [BENEFITS](benefits)
+   + [Q: What are the benefits of an SBOM?](#q-what-are-the-benefits-of-an-sbom)
+   + [Q: How does an SBOM help in the event of a cyberattack?](#q-how-does-an-sbom-help-in-the-event-of-a-cyberattack)
+   + [Q: In addition to vulnerability management, how can SBOMs help me?](#q-in-addition-to-vulnerability-management-how-can-sboms-help-me)
+   + [Q: How have bills of material and supply chain transparency been helpful elsewhere?](#q-how-have-bills-of-material-and-supply-chain-transparency-been-helpful-elsewhere)
+- [COMMON MISCONCEPTIONS & CONCERNS](#common-misconceptions--concerns)
+   + [Q: Won’t SBOMs be a “roadmap to the attacker”?](#q-wont-sboms-be-a-roadmap-to-the-attacker)
+   + [Q: Does an SBOM require source code disclosure?](#q-does-an-sbom-require-source-code-disclosure)
+   + [Q: Does a list of the software components I include expose my intellectual property?](#q-does-a-list-of-the-software-components-i-include-expose-my-intellectual)
+   + [Q: Does an SBOM increase my exposure to license violations?](#q-does-an-sbom-increase-my-exposure-to-license-violations)
+   + [Q: Does an SBOM enable patent or license “trolls”?](#q-does-an-sbom-enable-patent-or-license-trolls)
+   + [Q: Will SBOMs increase my licensing costs or licensing commitments?](#q-will-sboms-increase-my-licensing-costs-or-licensing-commitments)
+## [CREATION](#creation)
+   + [Q: Who creates and maintains an SBOM?](#q-who-creates-and-maintains-an-sbom)
+   + [Q: What should be included in an SBOM?](#q-what-should-be-included-in-an-sbom)
+   + [Q: When is an SBOM created, changed, or maintained?](#q-when-is-an-sbom-created-changed-or-maintained)
+   + [Q: Some software components are made up of other software components themselves. Can an SBOM show that hierarchy?](#q-some-software-components-are-made-up-of-other-software-components)
+   + [Q: How deep in the dependency graph should an SBOM enumerate?](#q-how-deep-in-the-dependency-graph-should-an-sbom-enumerate)
+[DISTRIBUTION & SHARING](#distribution--sharing)
+   + [Q: If I make an SBOM, do I have to make it public?](#q-if-i-make-an-sbom-do-i-have-to-make-it-public)
+   + [Q: How will SBOM data be shared?](#q-how-will-sbom-data-be-shared)
+[ROLE SPECIFIC](#role-specific)
+   + [Q: How can SBOMs be leveraged as a Purchaser?](#q-how-can-sboms-be-leveraged-as-a-purchaser)
+   + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed)
 GET INVOLVED 9
 Q: Where can I find more information about the NTIA SBOM process? How do I get involved? 9
 
