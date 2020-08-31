@@ -33,7 +33,7 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
 - [ROLE SPECIFIC](#role-specific)
    + [Q: How can SBOMs be leveraged as a Purchaser?](#q-how-can-sboms-be-leveraged-as-a-purchaser)
    + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed-technology-in-the-field-for-emerging-vulnerabilities)
-- :construction: [How does SBOM relate to ...?](#how-does-sbom-relate-to-) :construction:
+- :construction: [HOW DOES SBOM RELATE TO ...?](#how-does-sbom-relate-to--construction) :construction:
    + ...
 - [GET INVOLVED](#get-involved)
    + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i-get-involved)
@@ -348,7 +348,7 @@ For additional benefits for engineers and other
 personas, see:
 * https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf
 
-# How does SBOM relate to ...? :construction:
+# HOW DOES SBOM RELATE TO ...? :construction:
 
 ## Q: How does SBOM relate to FS-ISAC? :construction:
 A: :construction: The Financial Section Information Sharing and Analysis Center (FS-ISAC)
