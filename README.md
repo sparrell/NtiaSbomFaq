@@ -1,4 +1,4 @@
-# Drafts for drafting NTIA SBOM FAQs
+# Drafting NTIA SBOM FAQs
 
 This is NOT the official copy.
 This is for the drafting NTIA SBOM FAQs.
