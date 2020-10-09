@@ -33,6 +33,8 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
 - [ROLE SPECIFIC](#role-specific)
    + [Q: How can SBOMs be leveraged as a Purchaser?](#q-how-can-sboms-be-leveraged-as-a-purchaser)
    + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed-technology-in-the-field-for-emerging-vulnerabilities)
+- :construction: [HOW DOES SBOM RELATE TO ...?](#how-does-sbom-relate-to--construction) :construction:
+   + ...
 - [GET INVOLVED](#get-involved)
    + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i-get-involved)
 
@@ -345,6 +347,135 @@ improve your position in the market.
 For additional benefits for engineers and other
 personas, see:
 * https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf
+
+# HOW DOES SBOM RELATE TO ...? :construction:
+
+## Q: How does SBOM relate to FS-ISAC? :construction:
+A: :construction: The Financial Section Information Sharing and Analysis Center (FS-ISAC)
+published “Appropriate Software Security Control Types
+for Third Party Service and Product Providers” in 2015.
+It includes Control Type 3B,
+“A Bill of Materials (BOM) for Commercial Software to Identify
+Open Source Libraries Used".
+See [Roles and Benefits for SBOM Across the Supply Chaing](https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf)
+Appendix 1 for more information.
+:construction:
+
+## Q: How does SBOM relate to BSA Framework for Secure software :construction:
+A: :construction: This industry-drafted
+[framework](https://www.bsa.org/files/reports/bsa_software_security_framework_web_final.pdf)
+offers guidance on secure development of software, security
+capabilities of the software, and a secure lifecycle.
+It recommends SBOM e.g.
+“To the maximum feasible
+through the use of manual and automated technologies,
+subcomponents integrated into third party components are documented,
+and their lineage and
+dependencies traced.”
+See [Roles and Benefits for SBOM Across the Supply Chaing](https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf)
+Appendix 1 for more information.
+:construction:
+
+## Q: How does SBOM relate to ISO/IEC 27002:2005 and 27002:2013? :construction:
+A: :construction: ISO/IEC 27002:2005 and 27002:2013 have relevant sections
+that highlight the importance of
+best practices to ensure adherence to
+information security control objectives for an organization.
+These include many controls which an SBOM enables.
+See [Roles and Benefits for SBOM Across the Supply Chaing](https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf)
+Appendix 1 for more information.
+:construction:
+
+## Q: How does SBOM relate to MITRE Deliver Uncompromised? :construction:
+A: :construction: MITRE, in its report on the national security supply chain,
+“[Deliver Uncompromised](https://www.mitre.org/publications/technical-papers/deliver-uncompromised-a-strategy-for-supply-chain-security)”
+recommends SBOMs as part of supply chain integrity.
+It notes, “If done properly, an SBOM can
+estimate the overall risk of the ensemble of
+software elements based on the risk of the individual
+elements.”
+:construction:
+
+## Q: How does SBOM relate to OWASP Component Analysis Project? :construction:
+A: :construction: This industry expert group’s
+[guidance on component analysis](https://www.owasp.org/index.php/Component_Analysis#Software_Bill-of-Materials_.28SBOM.29) recommends
+“Contractually require SBOMs from vendors
+and embed their acquisition in the procurement process”
+and a list of
+best practices using the SBOM to improve security.
+:construction:
+
+## Q: How does SBOM relate to BSIMM? :construction:
+A: :construction: BSIMM (Building Security in Maturity Model)
+is a large group of software developers in
+academia, government, and industry
+that benchmark best software development practices.
+They create practices that organizations
+can benchmark themselves against and assess where
+they are relative to their peers in their industry or overall.
+Version 9 of the BSIMM contains
+several SBOM related requirements.
+See [Roles and Benefits for SBOM Across the Supply Chaing](https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf)
+Appendix 1 for more information.
+:construction:
+
+## Q: How does SBOM relate to CISQ Trustworthy System Manifesto? :construction:
+A: :construction: The Council on IT Software Quality (CISQ)
+has published the “CISQ Trustworthy System
+Manifesto” on holding senior executives accountable for cybersecurity.
+Section III is "Traceable Properties of System Components"
+which has requirements for SBOM.
+See [Roles and Benefits for SBOM Across the Supply Chaing](https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf)
+Appendix 1 for more information.
+:construction:
+
+## Q: How does SBOM relate to FDA Requirements? :construction:
+A: :construction: The US Food and Drug Administration (FDA)
+has published draft Pre-Market Guidance for
+medical device manufacturers seeking FDA certification.
+This guidance maintains that:
+"The device design should provide a CBOM in a machine readable,
+electronic format to be consumed
+automatically" where
+Cybersecurity Bill of Materials (CBOM)
+is defined as
+"a list that includes
+but is not limited to commercial,
+open source, and off-the-shelf software and hardware
+components that are or could become susceptible to vulnerabilities."
+See (two pager to be prepared) for more information.
+:construction:
+
+## Q: How does SBOM relate to MDS2? :construction:
+A:
+
+## Q: How does SBOM relate to CMMC Certification? :construction:
+A:
+
+## Q: How does SBOM relate to DBOM? :construction:
+A: :construction: DBoM is a common backbone for attestation sharing including data such as SBOMs among supply chain partners. :construction:
+
+## Q: How does SBOM relate to OpenC2? :construction:
+A: :construction: [OpenC2](https://openc2.org/) is a standardized language
+for the command and control of technologies
+that provide or support cyber defenses.
+It includes provisions for requesting and receiving SBOMs.
+One example use is vulnerability analysis as part of
+a "[comply to connect](https://apps.nsa.gov/iaarchive/library/ias/adversary-mitigations/comply-to-connect.cfm#:~:text=Abstract%3A%20Ensuring%20that%20devices%20on,they%20connect%20and%20updated%20continually.)"
+use case.
+:construction:
+
+## Q: How does SBOM relate to SCAPv2? :construction:
+A:
+
+## Q: How does SBOM relate to MUD? :construction:
+A:
+
+## Q: How does SBOM relate to Open Chain? :construction:
+A:
+
+## Q: How does SBOM relate to CBOM? :construction:
+A:
 
 # GET INVOLVED
 
