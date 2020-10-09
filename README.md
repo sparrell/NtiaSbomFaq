@@ -23,16 +23,6 @@ GitHub is proposed for change control
 and to reach out to a wider audience for comment
 once there is consensus within the Working Group.
 
-Note that most of the drafting work
-will occur in the
-Awareness & Adoption Working Group
-as part of the
-NTIA Software Component Transparency
-Multistakeholder process.
-GitHub is proposed for change control
-and to reach out to a wider audience for comment
-once there is some consensus within the Working Group.
-
 For those not participating in the A&A WG,
 the process would be:
 - generate an issue
