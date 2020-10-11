@@ -9,10 +9,7 @@ for ease in updating by a wider group.
 Markdown is intended as easy-to-read, easy-to-write like a plain-text email.
 
 
-There are 3 branches:
-- published - what is at https://www.ntia.gov/files/ntia/publications/sbom_faq_20200821.pdf
-- approved - what has been agreed to, but is not yet published on the NTIA website.
-- working - still under discussion.
+There is one branch which is what is published - what is at https://www.ntia.gov/files/ntia/publications/sbom_faq_20200821.pdf
 
 Note that most of the drafting work
 will occur in the
