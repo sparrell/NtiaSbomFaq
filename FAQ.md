@@ -33,6 +33,11 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
 - [ROLE SPECIFIC](#role-specific)
    + [Q: How can SBOMs be leveraged as a Purchaser?](#q-how-can-sboms-be-leveraged-as-a-purchaser)
    + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed-technology-in-the-field-for-emerging-vulnerabilities)
+- ["How does SBOM relate to..."](#how-does-sbom-relate-to-)
+   + [Q: How does SBOM relate to the Manufacturer Disclosure Statement for Medical Device Security (MDS2​ ​)?]()
+   + [Q: How does SBOM relate to OpenC2?]()
+   + [Q: How does SBOM relate to Manufacturer Usage Descriptions (MUD)?]()
+   + [Q: How does SBOM relate to DBOM?]()
 - [GET INVOLVED](#get-involved)
    + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i-get-involved)
 
@@ -345,6 +350,48 @@ improve your position in the market.
 For additional benefits for engineers and other
 personas, see:
 * https://www.ntia.gov/files/ntia/publications/ntia_sbom_use_cases_roles_benefits-nov2019.pdf
+
+# "How does SBOM relate to..."
+
+## Q: How does SBOM relate to the Manufacturer Disclosure Statement for Medical Device Security (MDS2​ ​)?
+A: The Manufacturer Disclosure Statement for Medical Device Security (MDS2​)
+provides medical device manufacturers with a means for disclosing
+to healthcare providers the security-related features
+of the medical devices they manufacture.
+
+The working group that established and modified the latest version
+of the MDS2​ ​ were both aware of and participants
+in the NTIA SBOM multistakeholder process.
+The SBOM section of the MDS2​ ​ was created with these parallel efforts in mind.
+Where the new MDS2​ ​ was published prior to the availability of formal SBOM
+documentation, it was designed to be flexible enough to accommodate any emerging
+guidance and standards from the NTIA SBOM multistakeholder process.
+For additional details, see:
+https://www.nema.org/standards/view/manufacturer-disclosure-statement-for-medical-device-security
+
+## Q: How does SBOM relate to OpenC2?
+A: OpenC2 is a standardized language for the command and control of cybersecurity.
+OpenC2 has commands for obtaining the SBOM of a device, for analyzing the SBOM,
+and for taking appropriate actions based on the analysis
+(e.g. connect, patch, sandbox, or block).
+For additional details, see: ​https://openc2.org/
+
+##Q: How does SBOM relate to Manufacturer Usage Descriptions (MUD)?
+A: Manufacturer Usage Descriptions (MUD) describe IoT devices, their capabilities,
+and their needs.
+An extension to those descriptions can inform local deployments
+on how to find an SBOM by pointing to a URL,
+indicating appropriate local mechanisms,
+or indicating a point of contact for further information.
+For additional details, see:
+https://csrc.nist.gov/publications/detail/sp/1800-15/draft
+
+##Q: How does SBOM relate to DBOM?
+A: DBoM is a common backbone for attestation sharing including
+data such as SBOMs among supply chain partners.
+For additional details, see https://github.com/DBOMproject​.
+
+# GET INVOLVED
 
 ## Q: Where can I find more information about the NTIA SBOM process? How do I get involved?
 A: To learn more about the NTIA Multistakeholder process
