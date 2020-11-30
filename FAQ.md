@@ -36,8 +36,8 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
 - ["How does SBOM relate to..."](#how-does-sbom-relate-to)
    + [Q: How does SBOM relate to the Manufacturer Disclosure Statement for Medical Device Security (MDS2​)?](#q-how-does-sbom-relate-to-the-manufacturer-disclosure-statement-for-medical-device-security-mds2-)
    + [Q: How does SBOM relate to OpenC2?](#q-how-does-sbom-relate-to-openc2)
-   + [Q: How does SBOM relate to Manufacturer Usage Descriptions (MUD)?]()
-   + [Q: How does SBOM relate to DBOM?]()
+   + [Q: How does SBOM relate to Manufacturer Usage Descriptions (MUD)?](#q-how-does-sbom-relate-to-manufacturer-usage-descriptions-mud)
+   + [Q: How does SBOM relate to DBOM?](#q-how-does-sbom-relate-to-dbom)
 - [GET INVOLVED](#get-involved)
    + [Q: Where can I find more information about the NTIA SBOM process? How do I get involved?](#q-where-can-i-find-more-information-about-the-ntia-sbom-process-how-do-i-get-involved)
 
