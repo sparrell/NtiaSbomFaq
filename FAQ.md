@@ -33,9 +33,9 @@ NTIA Multistakeholder Process on Software Component Transparency | ntia.gov/sbom
 - [ROLE SPECIFIC](#role-specific)
    + [Q: How can SBOMs be leveraged as a Purchaser?](#q-how-can-sboms-be-leveraged-as-a-purchaser)
    + [Q: How can SBOMs help an engineer provide surveillance for deployed technology in the field for emerging vulnerabilities?](#q-how-can-sboms-help-an-engineer-provide-surveillance-for-deployed-technology-in-the-field-for-emerging-vulnerabilities)
-- ["How does SBOM relate to..."](#how-does-sbom-relate-to-)
-   + [Q: How does SBOM relate to the Manufacturer Disclosure Statement for Medical Device Security (MDS2​ ​)?]()
-   + [Q: How does SBOM relate to OpenC2?]()
+- ["How does SBOM relate to..."](#how-does-sbom-relate-to)
+   + [Q: How does SBOM relate to the Manufacturer Disclosure Statement for Medical Device Security (MDS2​)?](#q-how-does-sbom-relate-to-the-manufacturer-disclosure-statement-for-medical-device-security-mds2-)
+   + [Q: How does SBOM relate to OpenC2?](#q-how-does-sbom-relate-to-openc2)
    + [Q: How does SBOM relate to Manufacturer Usage Descriptions (MUD)?]()
    + [Q: How does SBOM relate to DBOM?]()
 - [GET INVOLVED](#get-involved)
@@ -376,7 +376,7 @@ and for taking appropriate actions based on the analysis
 (e.g. connect, patch, sandbox, or block).
 For additional details, see: ​https://openc2.org/
 
-##Q: How does SBOM relate to Manufacturer Usage Descriptions (MUD)?
+## Q: How does SBOM relate to Manufacturer Usage Descriptions (MUD)?
 A: Manufacturer Usage Descriptions (MUD) describe IoT devices, their capabilities,
 and their needs.
 An extension to those descriptions can inform local deployments
@@ -386,7 +386,7 @@ or indicating a point of contact for further information.
 For additional details, see:
 https://csrc.nist.gov/publications/detail/sp/1800-15/draft
 
-##Q: How does SBOM relate to DBOM?
+## Q: How does SBOM relate to DBOM?
 A: DBoM is a common backbone for attestation sharing including
 data such as SBOMs among supply chain partners.
 For additional details, see https://github.com/DBOMproject​.
